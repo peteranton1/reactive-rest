@@ -300,3 +300,4 @@ $RECYCLE.BIN/
 
 .idea/*
 build/*
+/build/
